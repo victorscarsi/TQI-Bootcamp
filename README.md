@@ -1,2 +1,2 @@
-# Desafio Git/GitHub da DIO
-Primeiro repositório Git na DIO - Bootcamp
+# Bootcamp DIO - TQI
+Repositório para registrar a evolução no bootcamp DIO - TQI.
