@@ -1,2 +1,2 @@
-# Bootcamp DIO - TQI
-Repositório para registrar a evolução no bootcamp DIO - TQI.
+# Bootcamp TQI
+Repositório para registrar a evolução no bootcamp TQI da DIO.
